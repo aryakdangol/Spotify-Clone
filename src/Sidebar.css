@@ -1,0 +1,30 @@
+.sidebar{
+    height: 100vh;
+    flex: 0.2;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #040404;
+    color: white;
+    min-width: 230px;
+}
+
+.sidebar > hr{
+    border: 1px solud #282828;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.sidebar-logo{
+    object-fit: contain;
+    height: 50px;
+    padding: 10px;
+    margin-right: auto;
+    margin: 1rem 0;
+}
+
+.sidebar-title{
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 12px;
+
+}
